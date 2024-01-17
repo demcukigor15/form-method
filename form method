@@ -1,0 +1,4 @@
+ <form method="post" action="">
+        <button type="submit" name="moveLeft">Move Left</button>
+        <button type="submit" name="moveRight">Move Right</button>
+    </form>
